@@ -1,5 +1,8 @@
 hobi baru yang ingin dikembangkan
 - foto estetik yang menenagkan
  * foto bunga
- * foto langit
+  - buat bunga sendiri
+ 
 - menghargai hal-hal simpel
+  * mendengarkan hujan dengan tenang
+  * banyak merenung dan bertindak

@@ -1,5 +1,7 @@
 hobi baru yang ingin dikembangkan
 - foto estetik yang menenagkan
  * foto bunga
+  - foto asli
+  - foto bunga buatan
  * foto langit
 - menghargai hal-hal simpel
